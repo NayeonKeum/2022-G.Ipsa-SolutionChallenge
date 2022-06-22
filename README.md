@@ -4,6 +4,8 @@
 
 ### Bind generations to make a better world (aka. **B**ack **I**n **T**he **D**ays)
 
+- [original repo](https://github.com/dsc-sookmyung/2022-G.Ipsa-SolutionChallenge.git)
+
 </br>
 
 ![KakaoTalk_Photo_2022-04-01-10-44-06 001](https://user-images.githubusercontent.com/68985625/161178434-7015d7b7-955d-492c-881d-ff4e4e113119.png)
